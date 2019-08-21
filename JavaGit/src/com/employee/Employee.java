@@ -23,4 +23,6 @@ public class Employee {
 		this.address = address;
 	}
 	
+public void m1(){
+}
 }
